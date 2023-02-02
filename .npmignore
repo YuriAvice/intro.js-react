@@ -1,7 +1,6 @@
 .idea
+.DS_Store
+.github
 node_modules
 coverage
-lib
 npm-debug.log.*
-.DS_Store
-package-lock.json

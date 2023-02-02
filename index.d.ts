@@ -1,4 +1,4 @@
-declare module 'intro.js-react' {
+declare module '@yurii.avice/intro.js-react' {
   import * as React from 'react';
   import { IntroJs, Options } from 'intro.js';
 

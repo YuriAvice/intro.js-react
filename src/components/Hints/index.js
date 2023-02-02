@@ -1,4 +1,4 @@
-import introJs from 'intro.js';
+import introJs from '@yurii.avice/intro.js';
 import PropTypes from 'prop-types';
 import { Component } from 'react';
 
